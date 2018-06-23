@@ -44,8 +44,8 @@ Graph* newGraph(u_int32_t size){
             currentPoint->x = column;
             currentPoint->y = row;
             currentPoint->r = 0;
-            currentPoint-> g = 0;
-            currentPoint->b = 0;
+            currentPoint-> g = 1;
+            currentPoint->b = 2;
 
         }
     }

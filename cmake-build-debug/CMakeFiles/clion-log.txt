@@ -1,4 +1,4 @@
-/opt/clion-2017.3.4/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/takezo/CLionProjects/untitled01
+/home/takezo/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/181.5281.33/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/takezo/GitRepos/Mandelbrot-Set-C-Implementation
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/takezo/CLionProjects/untitled01/cmake-build-debug
+-- Build files have been written to: /home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/cmake-build-debug

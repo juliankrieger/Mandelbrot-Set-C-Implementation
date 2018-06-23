@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/untitled01.dir/source/main.c.o CMakeFiles/untitled01.dir/source/point.c.o CMakeFiles/untitled01.dir/source/graph.c.o CMakeFiles/untitled01.dir/source/ppmWriter.c.o  -o untitled01 
+/usr/bin/cc -g   CMakeFiles/untitled01.dir/source/main.c.o CMakeFiles/untitled01.dir/source/point.c.o CMakeFiles/untitled01.dir/source/graph.c.o CMakeFiles/untitled01.dir/source/ppmWriter.c.o CMakeFiles/untitled01.dir/source/mandelbrot.c.o  -o untitled01 

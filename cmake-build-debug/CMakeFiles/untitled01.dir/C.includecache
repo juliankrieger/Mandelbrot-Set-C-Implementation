@@ -6,23 +6,23 @@
 
 #IncludeRegexTransform: 
 
-/home/takezo/CLionProjects/untitled01/source/graph.c
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.c
 stdlib.h
 -
 stdio.h
 -
 point.h
-/home/takezo/CLionProjects/untitled01/source/point.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/point.h
 graph.h
-/home/takezo/CLionProjects/untitled01/source/graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
 
-/home/takezo/CLionProjects/untitled01/source/graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
 zconf.h
 -
 point.h
-/home/takezo/CLionProjects/untitled01/source/point.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/point.h
 
-/home/takezo/CLionProjects/untitled01/source/main.c
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/main.c
 stdio.h
 -
 stdlib.h
@@ -32,13 +32,25 @@ zconf.h
 time.h
 -
 point.h
-/home/takezo/CLionProjects/untitled01/source/point.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/point.h
 graph.h
-/home/takezo/CLionProjects/untitled01/source/graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
 ppmWriter.h
-/home/takezo/CLionProjects/untitled01/source/ppmWriter.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/ppmWriter.h
+mandelbrot.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/mandelbrot.h
 
-/home/takezo/CLionProjects/untitled01/source/point.c
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/mandelbrot.c
+stdlib.h
+-
+graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
+
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/mandelbrot.h
+graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
+
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/point.c
 stdlib.h
 -
 stdio.h
@@ -46,19 +58,19 @@ stdio.h
 stdint.h
 -
 point.h
-/home/takezo/CLionProjects/untitled01/source/point.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/point.h
 
-/home/takezo/CLionProjects/untitled01/source/point.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/point.h
 
-/home/takezo/CLionProjects/untitled01/source/ppmWriter.c
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/ppmWriter.c
 stdio.h
 -
 ppmWriter.h
-/home/takezo/CLionProjects/untitled01/source/ppmWriter.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/ppmWriter.h
 graph.h
-/home/takezo/CLionProjects/untitled01/source/graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
 
-/home/takezo/CLionProjects/untitled01/source/ppmWriter.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/ppmWriter.h
 graph.h
-/home/takezo/CLionProjects/untitled01/source/graph.h
+/home/takezo/GitRepos/Mandelbrot-Set-C-Implementation/source/graph.h
 

@@ -27,9 +27,13 @@ int writePPM(char * filename, Graph* graph){
     FILE * file = fopen(filename, "wb");
 
     (void) fprintf(file, "%s\n%d %d\n255\n", NETPBM_FILE_HEADER, height, width);
+
+
     for(int i = 0; i < graph->size; i++){
         for(int j = 0; j < graph->size; j++){
+
             static unsigned char color[3];
+
             color[0] = graph->pointArray[i][j].r;
             color[1] = graph->pointArray[i][j].g;
             color[2] = graph->pointArray[i][j].b;
@@ -37,6 +41,8 @@ int writePPM(char * filename, Graph* graph){
             (void) fwrite(color, 1 ,3 , file);
         }
     }
+
     (void)fclose(file);
+
     return 1;
 }
